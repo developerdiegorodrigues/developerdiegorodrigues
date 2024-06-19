@@ -24,7 +24,7 @@ Sempre atualizado com as novidades da tecnologia da informação, atualmente foc
 <table>
   <tbody>
     <tr>
-      <td width=500>
+      <td width=400>
         
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
@@ -42,7 +42,7 @@ Sempre atualizado com as novidades da tecnologia da informação, atualmente foc
       </td>
       <td width=300>
       
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
       </td>
     </tr>
   </tbody>
