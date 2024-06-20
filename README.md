@@ -1,6 +1,3 @@
-<sup>
-@devdiegorodrigues
-</sup>
 <h2 align=center>
   
   ```< Diego Rodrigues />```
@@ -56,7 +53,7 @@ Sempre atualizado com as novidades da tecnologia da informação, atualmente foc
 Alguns repositórios públicos 🧩
 <br/><br/>
   
-![repository](https://github-contributor-stats.vercel.app/api?username=developerdiegorodrigues&limit=5&theme=dark&combine_all_yearly_contributions=true&update=2)
+![repository](https://github-contributor-stats.vercel.app/api?username=developerdiegorodrigues&limit=5&theme=dark&combine_all_yearly_contributions=false&update=2)
 </h3>
 <br/>
 
