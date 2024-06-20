@@ -1,3 +1,6 @@
+<sup>
+@devdiegorodrigues
+</sup>
 <h2 align=center>
   
   ```< Diego Rodrigues />```
@@ -42,7 +45,7 @@ Sempre atualizado com as novidades da tecnologia da informação, atualmente foc
       </td>
       <td width=300>
       
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&update=1)
       </td>
     </tr>
   </tbody>
@@ -53,7 +56,7 @@ Sempre atualizado com as novidades da tecnologia da informação, atualmente foc
 Alguns repositórios públicos 🧩
 <br/><br/>
   
-![repository](https://github-contributor-stats.vercel.app/api?username=developerdiegorodrigues&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![repository](https://github-contributor-stats.vercel.app/api?username=developerdiegorodrigues&limit=5&theme=dark&combine_all_yearly_contributions=true&update=2)
 </h3>
 <br/>
 
