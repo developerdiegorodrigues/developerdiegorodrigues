@@ -29,7 +29,7 @@ Sempre atualizado com as novidades da tecnologia da informação, atualmente foc
     <tr>
       <td>
       
-  ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&update=4)
+  ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&update=5)
       </td>
     </tr>
   </tbody>
