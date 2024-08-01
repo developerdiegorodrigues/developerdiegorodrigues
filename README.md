@@ -15,6 +15,9 @@ Desenvolvedor web full-stack com profundo conhecimento em desenvolvimento web, s
 <br/>
 Sempre atualizado com as novidades da tecnologia da informação, atualmente focado no estudo de arquitetura de microserviços com o padrão saga orquestrado.<br/>
 <br/>
+Neste momento trabalho desenvolvendo a plataforma [Trade Arena](https://www.tradearena.app/).
+<br/>
+<br/>
 
 ### 🔎 Você também me encontra
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devdiegorodrigues)
@@ -29,7 +32,7 @@ Sempre atualizado com as novidades da tecnologia da informação, atualmente foc
     <tr>
       <td>
       
-  ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&update=5)
+  ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&update=6)
       </td>
     </tr>
   </tbody>
