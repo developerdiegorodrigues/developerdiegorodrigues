@@ -19,20 +19,26 @@ Neste momento trabalho desenvolvendo a plataforma [Trade Arena](https://www.trad
 <br/>
 <br/>
 
-### 🔎 Você também me encontra
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devdiegorodrigues)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devdiegorodrigues)
-  <!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/devdiegorodrigues) -->
+### 🔎 Também me encontra
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devdiegorodrigues)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devdiegorodrigues)
+<!-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/devdiegorodrigues) -->
 <br/>
 
-### ⚗️ Principais Tech Skills
----
+<h2>
+⚗️ Principais Tech Skills
+</h2>
 <table align=right>
   <tbody>
     <tr>
       <td>
       
   ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&update=6)
+
+  <span align=center>
+    
+  ![amazon linux 2023](https://github.com/developerdiegorodrigues/developerdiegorodrigues/blob/main/images/AmazonLinux2023.png?raw=true)
+  </span>
       </td>
     </tr>
   </tbody>
@@ -55,7 +61,7 @@ Neste momento trabalho desenvolvendo a plataforma [Trade Arena](https://www.trad
 <br/>
 
 <h3>
-  🌐 Alguns repositórios públicos
+  🌐 Repositórios públicos
 </h3>
 
 ![repository](https://github-contributor-stats.vercel.app/api?username=developerdiegorodrigues&limit=5&theme=dark&combine_all_yearly_contributions=false&update=2)
