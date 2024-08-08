@@ -33,7 +33,7 @@ Neste momento trabalho desenvolvendo a plataforma [Trade Arena](https://www.trad
     <tr>
       <td>
       
-  ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&update=6)
+  ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&update=7) <!-- &layout=compact -->
 
   <span align=center>
     
