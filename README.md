@@ -65,10 +65,10 @@ Neste momento trabalho desenvolvendo a plataforma [Trade Arena](https://www.trad
 <br/>
 
 <h3>
-  🌐 Repositórios públicos
+  🌐 Alguns Repositórios públicos
 </h3>
 
-![repository](https://github-contributor-stats.vercel.app/api?username=developerdiegorodrigues&limit=10&theme=dark&combine_all_yearly_contributions=true&update=4)
+![repository](https://github-contributor-stats.vercel.app/api?username=developerdiegorodrigues&limit=5&theme=dark&combine_all_yearly_contributions=false&update=4)
 <br/>
 <br/>
 
