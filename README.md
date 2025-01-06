@@ -3,7 +3,7 @@
   ```< Diego Rodrigues />```
   
   <sup>Full-stack Web Developer</sup> <br/>
-  [![Profile Views](https://visitcount.itsvg.in/api?id=developerdiegorodrigues&icon=0&color=3)](https://visitcount.itsvg.in)
+  <!-- [![Profile Views](https://visitcount.itsvg.in/api?id=developerdiegorodrigues&icon=0&color=3)](https://visitcount.itsvg.in) -->
   
   ![streak status](https://github-readme-streak-stats.herokuapp.com/?user=developerdiegorodrigues&theme=dark&hide_border=false)
 
