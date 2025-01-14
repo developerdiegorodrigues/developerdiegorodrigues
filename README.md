@@ -10,7 +10,7 @@
 </h2>
 
 ### 🎫 Um pouco sobre mim
-Atualmente Tech Lead DevOps / Desenvolvedor Full Cycle Web, sou um profissional experiente em transformar ideias em soluções digitais inovadoras, que fazem diferença no mercado. Com profundo conhecimento em hospedagem de aplicações em nuvem, possuo sólida bagagem profissional e um compromisso constante com a evolução.
+Atualmente Tech Lead DevOps / Desenvolvedor Full Cycle Web, sou um profissional experiente em transformar ideias em soluções digitais robustas, que fazem diferença no mercado. Com profundo conhecimento em hospedagem de aplicações em nuvem, possuo sólida bagagem profissional e um compromisso constante com a evolução.
 <br/>
 <br/>
 Neste momento trabalho desenvolvendo a plataforma [Trade Arena](https://www.tradearena.app/).
@@ -44,6 +44,7 @@ Neste momento trabalho desenvolvendo a plataforma [Trade Arena](https://www.trad
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%235391FE.svg?style=plastic&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23404d59?style=plastic&logo=apachekafka)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)<br/>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
