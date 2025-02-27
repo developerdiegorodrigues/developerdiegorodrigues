@@ -9,7 +9,7 @@
 </h2>
 
 ### 🎫 Um pouco sobre mim
-Atualmente Tech Lead DevOps / Desenvolvedor Full Cycle Web, sou um profissional experiente em transformar ideias em soluções digitais robustas, que fazem diferença no mercado. Com profundo conhecimento em hospedagem de aplicações em nuvem, possuo sólida bagagem profissional e um compromisso constante com a evolução.
+Atualmente Tech Lead DevOps / Desenvolvedor Full Stack, sou um profissional experiente em transformar ideias em soluções digitais robustas, que fazem diferença no mercado. Com profundo conhecimento em hospedagem de aplicações em nuvem, possuo sólida bagagem profissional e um compromisso constante com a evolução.
 <br/>
 <br/>
 Neste momento trabalho desenvolvendo a plataforma [Trade Arena](https://www.tradearena.app/).
