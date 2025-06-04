@@ -34,7 +34,7 @@ Neste momento trabalho desenvolvendo a plataforma [Trade Arena](https://www.trad
 
   <span align=center>
     
-  ![amazon linux 2023](https://github.com/developerdiegorodrigues/developerdiegorodrigues/blob/main/images/AmazonLinux2023.png?raw=true)
+  ![Ubuntu2025](https://github.com/developerdiegorodrigues/developerdiegorodrigues/blob/main/images/Ubuntu_x200.png?raw=true)
   </span>
       </td>
     </tr>
