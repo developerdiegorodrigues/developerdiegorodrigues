@@ -4,7 +4,7 @@
   
   <sup>Full Stack Web Developer</sup> <br/>
   
-  ![streak status](https://github-readme-streak-stats.herokuapp.com/?user=developerdiegorodrigues&theme=dark&hide_border=false)
+  ![streak status](https://github-readme-streak-stats.herokuapp.com/?user=developerdiegorodrigues&theme=dark&hide_border=false&chage=1)
 
 </h2>
 
@@ -30,7 +30,7 @@ Neste momento trabalho desenvolvendo a plataforma [Trade Arena](https://www.trad
     <tr>
       <td>
       
-  ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&update=7) <!-- &layout=compact -->
+  ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&update=8) <!-- &layout=compact -->
 
   <span align=center>
     
