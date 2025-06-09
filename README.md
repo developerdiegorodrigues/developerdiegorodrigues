@@ -12,9 +12,6 @@
 Atualmente Desenvolvedor Web Full Stack, sou um profissional experiente em transformar ideias em soluções digitais robustas, que fazem diferença no mercado. Com profundo conhecimento em hospedagem de aplicações em nuvem, possuo sólida bagagem profissional e um compromisso constante com a evolução.
 <br/>
 <br/>
-Neste momento trabalho desenvolvendo a plataforma [Trade Arena](https://www.tradearena.app/).
-<br/>
-<br/>
 
 ### 🔎 Também me encontra
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devdiegorodrigues)
