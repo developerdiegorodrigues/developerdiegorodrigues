@@ -27,7 +27,7 @@ Atualmente Desenvolvedor Web Full Stack, sou um profissional experiente em trans
     <tr>
       <td>
       
-  ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&update=8) <!-- &layout=compact -->
+  ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&update=9) <!-- &layout=compact -->
 
   <span align=center>
     
@@ -64,7 +64,7 @@ Atualmente Desenvolvedor Web Full Stack, sou um profissional experiente em trans
   🌐 Alguns Repositórios públicos
 </h3>
 
-![repository](https://github-contributor-stats.vercel.app/api?username=developerdiegorodrigues&limit=5&theme=dark&combine_all_yearly_contributions=false&update=4)
+![repository](https://github-contributor-stats.vercel.app/api?username=developerdiegorodrigues&limit=5&theme=dark&combine_all_yearly_contributions=false&update=5)
 <br/>
 <br/>
 
