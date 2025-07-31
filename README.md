@@ -4,7 +4,7 @@
   
   <sup>Full Stack Developer</sup> <br/>
   
-  ![streak status](https://github-readme-streak-stats.herokuapp.com/?user=developerdiegorodrigues&theme=dark&hide_border=false&chage=1)
+  <!-- ![streak status](https://github-readme-streak-stats.herokuapp.com/?user=developerdiegorodrigues&theme=dark&hide_border=false&chage=1) -->
 
 </h2>
 
