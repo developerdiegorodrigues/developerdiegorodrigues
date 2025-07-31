@@ -2,14 +2,14 @@
   
   ```< Diego Rodrigues />```
   
-  <sup>Full Stack Web Developer</sup> <br/>
+  <sup>Full Stack Developer</sup> <br/>
   
-  <!-- ![streak status](https://github-readme-streak-stats.herokuapp.com/?user=developerdiegorodrigues&theme=dark&hide_border=false&chage=1) -->
+  ![streak status](https://github-readme-streak-stats.herokuapp.com/?user=developerdiegorodrigues&theme=dark&hide_border=false&chage=1)
 
 </h2>
 
 ### 🎫 Um pouco sobre mim
-Atualmente Desenvolvedor Web Full Stack, sou um profissional experiente em transformar ideias em soluções digitais robustas, que fazem diferença no mercado. Com profundo conhecimento em hospedagem de aplicações em nuvem, possuo sólida bagagem profissional e um compromisso constante com a evolução.
+Atualmente **desenvolvedor back-end Java**, sou um profissional experiente em transformar ideias em soluções digitais robustas, que fazem diferença no mercado. Com profundo conhecimento em hospedagem de aplicações em nuvem, possuo sólida bagagem profissional e um compromisso constante com a evolução.
 <br/>
 <br/>
 
@@ -39,8 +39,8 @@ Atualmente Desenvolvedor Web Full Stack, sou um profissional experiente em trans
 </table>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)<br/>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
