@@ -61,9 +61,11 @@ Atualmente **desenvolvedor back-end Java**, sou um profissional experiente em tr
 <br/>
 <br/>
 
+<!--
 <h3>
   🌐 Alguns Repositórios públicos
 </h3>
+-->
 
 <!-- ![repository](https://github-contributor-stats.vercel.app/api?username=developerdiegorodrigues&limit=5&theme=dark&combine_all_yearly_contributions=false&update=5) -->
 <br/>
