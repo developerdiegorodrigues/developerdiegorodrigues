@@ -27,7 +27,8 @@ Atualmente **desenvolvedor back-end Java**, sou um profissional experiente em tr
     <tr>
       <td>
       
-  ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&update=9) <!-- &layout=compact -->
+  <!-- ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&update=9) <!-- &layout=compact --> 
+  Open Source
 
   <span align=center>
     
@@ -64,7 +65,7 @@ Atualmente **desenvolvedor back-end Java**, sou um profissional experiente em tr
   🌐 Alguns Repositórios públicos
 </h3>
 
-![repository](https://github-contributor-stats.vercel.app/api?username=developerdiegorodrigues&limit=5&theme=dark&combine_all_yearly_contributions=false&update=5)
+<!-- ![repository](https://github-contributor-stats.vercel.app/api?username=developerdiegorodrigues&limit=5&theme=dark&combine_all_yearly_contributions=false&update=5) -->
 <br/>
 <br/>
 
