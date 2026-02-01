@@ -4,7 +4,7 @@
   
   <sup>Full Stack Developer</sup> <br/>
   
-  <!-- ![streak status](https://github-readme-streak-stats.herokuapp.com/?user=developerdiegorodrigues&theme=dark&hide_border=false&chage=1) -->
+  ![GitHub Streak](https://developerdiegorodrigues.github.io/github-statistics/github-readme-streak-stats.svg)
 
 </h2>
 
@@ -27,8 +27,7 @@ Atualmente **desenvolvedor back-end Java**, sou um profissional experiente em tr
     <tr>
       <td>
       
-  <!-- ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiegorodrigues&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&update=9) <!-- &layout=compact --> 
-  Open Source
+  ![Top Langs](https://developerdiegorodrigues.github.io/github-statistics/MostUsedLanguages.svg)
 
   <span align=center>
     
@@ -67,7 +66,7 @@ Atualmente **desenvolvedor back-end Java**, sou um profissional experiente em tr
 </h3>
 -->
 
-<!-- ![repository](https://github-contributor-stats.vercel.app/api?username=developerdiegorodrigues&limit=5&theme=dark&combine_all_yearly_contributions=false&update=5) -->
+![Contributor Stats](https://developerdiegorodrigues.github.io/github-statistics/contributor-stats.svg)
 <br/>
 <br/>
 
