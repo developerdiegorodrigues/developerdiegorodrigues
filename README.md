@@ -1,3 +1,5 @@
+<img alt="Diego Rodrigues — Desenvolvedor Full Stack" src="https://developerdiegorodrigues.github.io/github-statistics/svg/banner_2.svg?forceUpdate=0" width="100%">
+
 <h2 align=center>
   
   ```< Diego Rodrigues />```
