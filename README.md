@@ -1,4 +1,4 @@
-<img alt="Diego Rodrigues — Desenvolvedor Full Stack" src="https://developerdiegorodrigues.github.io/github-statistics/svg/banner_2.svg?forceUpdate=3" width="100%">
+<img alt="Diego Rodrigues — Desenvolvedor Full Stack" src="https://developerdiegorodrigues.github.io/github-statistics/svg/banner_2.svg?forceUpdate=4" width="100%">
 
 <h2 align=center>
   
