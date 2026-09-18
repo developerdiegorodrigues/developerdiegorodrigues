@@ -6,7 +6,7 @@
   
   <sup>Desenvolvedor Full Stack</sup> <br/>
   
-  <img alt="Contribuições no GitHub" src="https://developerdiegorodrigues.github.io/github-statistics/svg/contribuicoes.svg?forceUpdate=1" width="480px">
+  <img alt="Contribuições no GitHub" src="https://developerdiegorodrigues.github.io/github-statistics/svg/contribuicoes.svg?forceUpdate=2" width="480px">
 
 </h2>
 
@@ -34,9 +34,9 @@ Atualmente desenvolvendo a plataforma [Nox Shop](https://nonprod.noxlab.com.br/b
   <td>
 
   <br/>
-  <img alt="Linguagens mais usadas" src="https://developerdiegorodrigues.github.io/github-statistics/svg/linguagens.svg?forceUpdate=1" width="400px">
+  <img alt="Linguagens mais usadas" src="https://developerdiegorodrigues.github.io/github-statistics/svg/linguagens.svg?forceUpdate=2" width="400px">
   <br/>
-  <img width="350px" alt="NoxLab" src="https://raw.githubusercontent.com/developerdiegorodrigues/developerdiegorodrigues/main/images/NoxLab_x500.png?forceUpdate=1" width="250px">
+  <img width="350px" alt="NoxLab" src="https://raw.githubusercontent.com/developerdiegorodrigues/developerdiegorodrigues/main/images/NoxLab_x500.png?forceUpdate=2" width="250px">
   <br/>
   https://nonprod.noxlab.com.br/blog/about/history
   <br/>
