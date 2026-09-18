@@ -31,7 +31,7 @@
 
   <span align=center>
     <br/>
-  ![NoxLab](https://github.com/developerdiegorodrigues/developerdiegorodrigues/blob/main/images/NoxLabx_x1000.png?raw=true)
+  <!-- ![NoxLab](https://github.com/developerdiegorodrigues/developerdiegorodrigues/blob/main/images/NoxLabx_x1000.png) -->
   </span>
       </td>
     </tr>
