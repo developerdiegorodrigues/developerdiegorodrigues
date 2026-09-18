@@ -1,6 +1,6 @@
 
 <h2 align=center>
-  <img alt="Diego Rodrigues — Desenvolvedor Full Stack" src="https://developerdiegorodrigues.github.io/github-statistics/svg/banner_2.svg?forceUpdate=7" width="100%">
+  <img alt="Diego Rodrigues — Desenvolvedor Full Stack" src="https://developerdiegorodrigues.github.io/github-statistics/svg/banner_2.svg?forceUpdate=10" width="100%">
   
   ```< Diego Rodrigues />```
   
