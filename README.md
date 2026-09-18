@@ -10,6 +10,8 @@
 
 ### 🎫 Um pouco sobre mim
 **Desenvolvedor Full Stack**, sou um profissional experiente em transformar ideias em soluções digitais robustas, que fazem diferença no mercado. Com profundo conhecimento em hospedagem de aplicações em nuvem, possuo sólida bagagem profissional e um compromisso constante com a evolução.
+
+Atualmente desenvolvendo a plataforma [Nox Shop](https://nonprod.noxlab.com.br/blog/about/history).
 <br/>
 <br/>
 
@@ -23,13 +25,18 @@
 ⚗️ Principais Stacks
 </h2>
 <table align=right>
-  <tbody>
+  <tbody align=center>
   <tr>
   <td>
 
+  <br/>
   <img alt="Linguagens mais usadas" src="https://developerdiegorodrigues.github.io/github-statistics/svg/linguagens.svg" width="400px">
   <br/>
-  <img width="400px" align=center alt="NoxLab" src="https://raw.githubusercontent.com/developerdiegorodrigues/developerdiegorodrigues/main/images/NoxLab_x500.png" width="250px">
+  <img width="350px" alt="NoxLab" src="https://raw.githubusercontent.com/developerdiegorodrigues/developerdiegorodrigues/main/images/NoxLab_x500.png?forceUpdate=1" width="250px">
+  <br/>
+  https://nonprod.noxlab.com.br/blog/about/history
+  <br/>
+  <br/>
   
   </td>
   </tr>
@@ -61,7 +68,7 @@
   🌐 Repositórios em destaque
 </h3>
 
-<img alt="Alguns dos repositórios públicos" src="https://developerdiegorodrigues.github.io/github-statistics/svg/repositorios.svg" width="400px">
+<img alt="Alguns dos repositórios públicos" src="https://developerdiegorodrigues.github.io/github-statistics/svg/repositorios.svg?forceUpdate=1" width="400px">
 <br/>
 
 ### ⚙️ Também utilizo
