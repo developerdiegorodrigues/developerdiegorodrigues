@@ -30,7 +30,7 @@ Atualmente desenvolvendo a plataforma [Nox Shop](https://nonprod.noxlab.com.br/b
   <td>
 
   <br/>
-  <img alt="Linguagens mais usadas" src="https://developerdiegorodrigues.github.io/github-statistics/svg/linguagens.svg" width="400px">
+  <img alt="Linguagens mais usadas" src="https://developerdiegorodrigues.github.io/github-statistics/svg/linguagens.svg?forceUpdate=1" width="400px">
   <br/>
   <img width="350px" alt="NoxLab" src="https://raw.githubusercontent.com/developerdiegorodrigues/developerdiegorodrigues/main/images/NoxLab_x500.png?forceUpdate=1" width="250px">
   <br/>
