@@ -2,9 +2,9 @@
   
   ```< Diego Rodrigues />```
   
-  <sup>Full Stack Developer</sup> <br/>
+  <sup>Desenvolvedor Full Stack</sup> <br/>
   
-  ![GitHub Streak](https://developerdiegorodrigues.github.io/github-statistics/github-readme-streak-stats.svg)
+  <img alt="Contribuições no GitHub" src="https://developerdiegorodrigues.github.io/github-statistics/svg/contribuicoes.svg" width="480">
 
 </h2>
 
@@ -27,7 +27,7 @@ Atualmente **desenvolvedor back-end Java**, sou um profissional experiente em tr
     <tr>
       <td>
       
-  ![Top Langs](https://developerdiegorodrigues.github.io/github-statistics/MostUsedLanguages.svg)
+  <img alt="Linguagens mais usadas" src="https://developerdiegorodrigues.github.io/github-statistics/svg/linguagens.svg" width="480">
 
   <span align=center>
     
@@ -60,13 +60,11 @@ Atualmente **desenvolvedor back-end Java**, sou um profissional experiente em tr
 <br/>
 <br/>
 
-<!--
 <h3>
-  🌐 Alguns Repositórios públicos
+  🌐 Repositórios em destaque
 </h3>
--->
 
-![Contributor Stats](https://developerdiegorodrigues.github.io/github-statistics/contributor-stats.svg)
+<img alt="Repositórios em destaque" src="https://developerdiegorodrigues.github.io/github-statistics/svg/repositorios.svg" width="480">
 <br/>
 <br/>
 
