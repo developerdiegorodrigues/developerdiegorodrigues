@@ -12,6 +12,8 @@
 **Desenvolvedor Full Stack**, sou um profissional experiente em transformar ideias em soluções digitais robustas, que fazem diferença no mercado. Com profundo conhecimento em hospedagem de aplicações em nuvem, possuo sólida bagagem profissional e um compromisso constante com a evolução.
 
 Atualmente desenvolvendo a plataforma [Nox Shop](https://nonprod.noxlab.com.br/blog/about/history).
+
+*Sim! Essa página inicial estava bugada. Eu estava sem tempo 🤪*
 <br/>
 <br/>
 
