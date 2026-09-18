@@ -4,7 +4,7 @@
   
   <sup>Desenvolvedor Full Stack</sup> <br/>
   
-  <img alt="Contribuições no GitHub" src="https://developerdiegorodrigues.github.io/github-statistics/svg/contribuicoes.svg" width="480px">
+  <img alt="Contribuições no GitHub" src="https://developerdiegorodrigues.github.io/github-statistics/svg/contribuicoes.svg?forceUpdate=1" width="480px">
 
 </h2>
 
