@@ -24,17 +24,15 @@
 </h2>
 <table align=right>
   <tbody>
-    <tr>
-      <td>
-      
-  <img alt="Linguagens mais usadas" src="https://developerdiegorodrigues.github.io/github-statistics/svg/linguagens.svg" width="400px">
+  <tr>
+  <td>
 
-  <span align=center>
-    <br/>
-  <img alt="NoxLab" src="https://raw.githubusercontent.com/developerdiegorodrigues/developerdiegorodrigues/main/images/NoxLabx_x1000.png" width="250px">
-  </span>
-      </td>
-    </tr>
+  <img alt="Linguagens mais usadas" src="https://developerdiegorodrigues.github.io/github-statistics/svg/linguagens.svg" width="400px">
+  <br/>
+  <img width="400px" align=center alt="NoxLab" src="https://raw.githubusercontent.com/developerdiegorodrigues/developerdiegorodrigues/main/images/NoxLabx_x1000.png" width="250px">
+  
+  </td>
+  </tr>
   </tbody>
 </table>
 
@@ -58,14 +56,12 @@
 
 <br/>
 <br/>
-<br/>
 
 <h3>
   🌐 Repositórios em destaque
 </h3>
 
 <img alt="Alguns dos repositórios públicos" src="https://developerdiegorodrigues.github.io/github-statistics/svg/repositorios.svg" width="400px">
-<br/>
 <br/>
 
 ### ⚙️ Também utilizo
