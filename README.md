@@ -4,12 +4,12 @@
   
   <sup>Desenvolvedor Full Stack</sup> <br/>
   
-  <img alt="Contribuições no GitHub" src="https://developerdiegorodrigues.github.io/github-statistics/svg/contribuicoes.svg" width="480">
+  <img alt="Contribuições no GitHub" src="https://developerdiegorodrigues.github.io/github-statistics/svg/contribuicoes.svg" width="480px">
 
 </h2>
 
 ### 🎫 Um pouco sobre mim
-Atualmente **desenvolvedor back-end Java**, sou um profissional experiente em transformar ideias em soluções digitais robustas, que fazem diferença no mercado. Com profundo conhecimento em hospedagem de aplicações em nuvem, possuo sólida bagagem profissional e um compromisso constante com a evolução.
+**Desenvolvedor Full Stack**, sou um profissional experiente em transformar ideias em soluções digitais robustas, que fazem diferença no mercado. Com profundo conhecimento em hospedagem de aplicações em nuvem, possuo sólida bagagem profissional e um compromisso constante com a evolução.
 <br/>
 <br/>
 
@@ -27,11 +27,11 @@ Atualmente **desenvolvedor back-end Java**, sou um profissional experiente em tr
     <tr>
       <td>
       
-  <img alt="Linguagens mais usadas" src="https://developerdiegorodrigues.github.io/github-statistics/svg/linguagens.svg" width="480">
+  <img alt="Linguagens mais usadas" src="https://developerdiegorodrigues.github.io/github-statistics/svg/linguagens.svg" width="400px">
 
   <span align=center>
-    
-  ![Ubuntu2025](https://github.com/developerdiegorodrigues/developerdiegorodrigues/blob/main/images/Ubuntu_x200.png?raw=true)
+    <br/>
+  ![NoxLab](https://github.com/developerdiegorodrigues/developerdiegorodrigues/blob/main/images/NoxLabx_x1000.png?raw=true)
   </span>
       </td>
     </tr>
@@ -64,7 +64,7 @@ Atualmente **desenvolvedor back-end Java**, sou um profissional experiente em tr
   🌐 Repositórios em destaque
 </h3>
 
-<img alt="Repositórios em destaque" src="https://developerdiegorodrigues.github.io/github-statistics/svg/repositorios.svg" width="480">
+<img alt="Alguns dos repositórios públicos" src="https://developerdiegorodrigues.github.io/github-statistics/svg/repositorios.svg" width="400px">
 <br/>
 <br/>
 
