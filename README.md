@@ -29,7 +29,7 @@
 
   <img alt="Linguagens mais usadas" src="https://developerdiegorodrigues.github.io/github-statistics/svg/linguagens.svg" width="400px">
   <br/>
-  <img width="400px" align=center alt="NoxLab" src="https://raw.githubusercontent.com/developerdiegorodrigues/developerdiegorodrigues/main/images/NoxLabx_x1000.png" width="250px">
+  <img width="400px" align=center alt="NoxLab" src="https://raw.githubusercontent.com/developerdiegorodrigues/developerdiegorodrigues/main/images/NoxLab_x500.png" width="250px">
   
   </td>
   </tr>
