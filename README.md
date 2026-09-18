@@ -68,7 +68,7 @@ Atualmente desenvolvendo a plataforma [Nox Shop](https://nonprod.noxlab.com.br/b
   🌐 Repositórios em destaque
 </h3>
 
-<img alt="Alguns dos repositórios públicos" src="https://developerdiegorodrigues.github.io/github-statistics/svg/repositorios.svg?forceUpdate=1" width="400px">
+<img alt="Alguns dos repositórios públicos" src="https://developerdiegorodrigues.github.io/github-statistics/svg/repositorios.svg?forceUpdate=3" width="400px">
 <br/>
 
 ### ⚙️ Também utilizo
