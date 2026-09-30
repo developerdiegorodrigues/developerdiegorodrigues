@@ -38,7 +38,7 @@ Atualmente desenvolvendo a plataforma [Nox Shop](https://nonprod.noxlab.com.br/b
   <br/>
   <img width="350px" alt="NoxLab" src="https://raw.githubusercontent.com/developerdiegorodrigues/developerdiegorodrigues/main/images/NoxLab_x500.png?forceUpdate=2" width="250px">
   <br/>
-  https://nonprod.noxlab.com.br/blog/about/history
+  https://shop.noxlab.com.br/blog/about/history
   <br/>
   <br/>
   
